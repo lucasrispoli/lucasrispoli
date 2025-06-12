@@ -1,7 +1,7 @@
 ## 👋 Olá! eu me chamo Lucas
 
 <p align="center">
-  <img src="Lucas Rispoli (1).gif" alt="Lucas animado" width="300"/>
+  <img src="Lucas Rispoli (2).gif" alt="Lucas animado" width="300"/>
 </p>
 
 
