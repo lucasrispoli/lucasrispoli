@@ -13,12 +13,12 @@
 ---
 
 ### 📊 GitHub Stats
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?lucasrispoli-github&show_icons=true&theme=tokyonight)
+![LucasRispoli's GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasRispoli&show_icons=true&theme=dark)
 
 ---
 
 ### 🧠 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lucasrispoli-github&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasRispoli&layout=compact&theme=dark)
 
 ---
 
