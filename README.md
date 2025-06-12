@@ -1,5 +1,7 @@
-## Olá! eu me chamo Lucas 
-
+## 👋 Olá! eu me chamo Lucas
+<p align="center">
+  <img src="C:\Users\SERRATEC\Downloads\Lucas Rispoli (1).gif" alt="Lucas animado" width="300"/>
+</p>
 🎓 Estudante de **Programação** no SERRATEC  
 💻 Cursando **Tecnologia da Computação e Comunicação** na **FAETERJ**  
 🚀 Apaixonado por tecnologia e desenvolvimento web  
