@@ -2,7 +2,7 @@
   <img src="Lucas Rispoli (2).gif" alt="Lucas animado" width="300"/>
 </p>
 
-
+Portifolio: https://lucasrispoli.github.io/Portifolio/
 🎓 Desenvolvedor **fullstack**.
 💻 Cursando **Tecnologia da Computação e Comunicação** na **FAETERJ**  
 🚀 Apaixonado por tecnologia e desenvolvimento web  
