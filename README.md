@@ -3,7 +3,7 @@
 </p>
 
 
-🎓 Estudante de **Programação** no SERRATEC  
+🎓 Desenvolvedor **fullstack**.
 💻 Cursando **Tecnologia da Computação e Comunicação** na **FAETERJ**  
 🚀 Apaixonado por tecnologia e desenvolvimento web  
 📫 Contato: rispolilucas@gmail.com
